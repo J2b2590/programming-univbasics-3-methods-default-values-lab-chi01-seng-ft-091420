@@ -13,5 +13,3 @@ end
 
 puts meal_choice('carrots', 'string beans', 'lentils')
 puts meal_choice('carrots', 'string beans')
-
-
