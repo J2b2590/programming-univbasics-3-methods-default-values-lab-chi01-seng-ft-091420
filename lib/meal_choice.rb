@@ -13,4 +13,4 @@ end
 
 puts "What a nutritious meal!" meal_choice('carrots', 'string beans')
 
-puts meal_choice('carrots', 'string beans', 'lentils')
+puts "What a nutritious meal!" meal_choice('carrots', 'string beans', 'lentils')
