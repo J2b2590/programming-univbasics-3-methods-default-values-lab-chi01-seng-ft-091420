@@ -6,13 +6,13 @@ def meal_choice (veg1, veg2, protein = "tofu")
   puts "What a nutritious meal!"
 
   order =  "A plate of #{protein} with #{veg1} and #{veg2}."
-
+  puts order
   order
 
 end
 
 
 
-
+meal_choice("broccoli", "macaroni")
 puts meal_choice('carrots', 'string beans')
 puts meal_choice('carrots', 'string beans', 'lentils')
