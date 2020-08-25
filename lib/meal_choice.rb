@@ -11,6 +11,6 @@ def meal_choice (veg1, veg2, protein = "tofu")
 end
 
 
-puts "What a nutritious meal!" meal_choice('carrots', 'string beans')
+puts "What a nutritious meal!", meal_choice('carrots', 'string beans')
 
-puts "What a nutritious meal!" meal_choice('carrots', 'string beans', 'lentils')
+puts "What a nutritious meal!", meal_choice('carrots', 'string beans', 'lentils')
